@@ -69,6 +69,7 @@
     <Compile Include="SeleniumBasics\FindElementCommands_2.cs" />
     <Compile Include="SeleniumBasics\FindTableElements.cs" />
     <Compile Include="SeleniumBasics\MultiSelectList.cs" />
+    <Compile Include="SeleniumBasics\WebDriverWaitFluent.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
