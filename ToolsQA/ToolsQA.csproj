@@ -67,6 +67,7 @@
     <Compile Include="SeleniumBasics\DropDownAndSelectOperations.cs" />
     <Compile Include="SeleniumBasics\FindElementCommands.cs" />
     <Compile Include="SeleniumBasics\FindElementCommands_2.cs" />
+    <Compile Include="SeleniumBasics\FindTableElements.cs" />
     <Compile Include="SeleniumBasics\MultiSelectList.cs" />
   </ItemGroup>
   <ItemGroup>
